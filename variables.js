@@ -8,4 +8,6 @@ var hobbies = "snowboarding"
 console.log(hobbies)
 var beverage = "coffee"
 console.log(beverages)
+var hobbies = "rock climbing"
+console.log(hobbies)
 
